@@ -1,0 +1,7 @@
+version: dev-1.0
+name: Portals
+main: me.wertik.portals.Main
+author: Wertik1206
+commands:
+  portals:
+    description: The main command to manage portals.
